@@ -73,7 +73,3 @@ Import `AW_RFM_Customer_Segments.csv` + `AW_Transactions.csv`, join on `Customer
 ├── AW_Power_BI_Dashboard_Guide.md
 └── README.md
 ```
-
-## 📄 License
-
-Add a license of your choice (e.g. MIT) if this repo is public.
